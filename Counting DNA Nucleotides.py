@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-###A Rapid Introduction to Molecular Biology
+A Rapid Introduction to Molecular Biology
 Problem
 
 a string is simply an ordered collection of symbols selected from some alphabet and formed into a word; the length of a string is the number of symbols that it contains.
@@ -29,12 +26,9 @@ Sample Output
 
 # In[1]:
 
-
 seq = "AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"
 
-
-# In[5]:
-
+# In[2]:
 
 print(seq.count('A'),seq.count('C'),seq.count('G'),seq.count('T'))
 
